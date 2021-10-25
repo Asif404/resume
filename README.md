@@ -4,3 +4,4 @@
 
 #### Do Not Clone this repo just use the above link for theme.
  
+[Link to resume](https://asif404.github.io/resume/)
